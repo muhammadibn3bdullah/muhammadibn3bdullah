@@ -7,7 +7,6 @@ on:
     branches:
       - master
       - main
-
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -22,6 +21,6 @@ jobs:
           base: ""
           config_timezone: Africa/Cairo
           plugin_repositories: yes
-          plugin_repositories_featured: Secure-C2-Framework
-          plugin_repositories_order: pushed
-          plugin_repositories_pinned: 0
+          plugin_repositories_pinned: yes
+          plugin_repositories_order: starred
+          plugin_repositories_affiliations: owner
