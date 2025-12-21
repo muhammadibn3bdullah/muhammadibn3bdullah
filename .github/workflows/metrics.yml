@@ -20,7 +20,13 @@ jobs:
           template: classic
           base: ""
           config_timezone: Africa/Cairo
+          
+          # الإعدادات الجديدة (المضمونة)
           plugin_repositories: yes
-          plugin_repositories_pinned: yes
+          # قفلنا المثبت عشان هو اللي عامل المشكلة
+          plugin_repositories_pinned: 0
+          # الترتيب حسب "أحدث رفع كود"
           plugin_repositories_order: pushed
+          # يعرض أعلى 2 بس
+          plugin_repositories_limit: 3
           plugin_repositories_affiliations: owner
