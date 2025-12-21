@@ -9,8 +9,10 @@
 - 💬 Ask me about **Penetration Testing, Hackintosh, GPU Flashing, and designing circuits using Proteus & MikroC.**
 - ⚡ Fun fact **I can force macOS to run on non-Apple hardware and unlock hidden GPU potentials!**
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mohamed.3abdullah/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadibn3bdullah@gmail.com) 
+## 🌐 Socials & Keys:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mohamed.3abdullah/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadibn3bdullah@gmail.com)
+<br>
+![PGP Key](https://img.shields.io/badge/PGP_Key-2072327F382CC88F670ED52CB2704386C8E58565-success?style=flat-square&logo=gnu-privacy-guard&logoColor=white)
 
 ---
 
@@ -26,8 +28,8 @@
 
 ---
 
-# 🔥 Top Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muhammadibn3bdullah&repo=aialgorithm&theme=monokai)](https://github.com/muhammadibn3bdullah/aialgorithm)
+# 🔥 Top Repositories (Auto-Updated)
+![Metrics](https://github.com/muhammadibn3bdullah/muhammadibn3bdullah/blob/main/github-metrics.svg)
 
 ---
 
