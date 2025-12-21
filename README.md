@@ -28,8 +28,13 @@
 
 ---
 
-# 🔥 Top Repositories (Auto-Updated)
-![Metrics](https://github.com/muhammadibn3bdullah/muhammadibn3bdullah/blob/main/github-metrics.svg)
+# 🔥 Top Repositories
+<a href="https://github.com/muhammadibn3bdullah/GO-C2-Framework">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadibn3bdullah&repo=GO-C2-Framework&theme=monokai" />
+</a>
+<a href="https://github.com/muhammadibn3bdullah/aialgorithm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadibn3bdullah&repo=aialgorithm&theme=monokai" />
+</a>
 
 ---
 
