@@ -3,7 +3,7 @@
 **IT Student @ Faculty of Computers & AI | CTF Player 🚩 | Hackintosh Enthusiast 🍎**
 
 - 🔭 I’m currently working on **Sharpening my Red Teaming skills & solving HackTheBox machines.**
-- 👯 I’m looking to collaborate on **Open Source Security Tools & CTF Teams.**
+- 🐰 I’m looking to collaborate on **Open Source Security Tools & CTF Teams.**
 - 🤝 I’m looking for help with **Advanced Exploit Development techniques.**
 - 🌱 I’m currently learning **Advanced Exploitation (OSCP) & Embedded Systems Design 🔌**
 - 💬 Ask me about **Penetration Testing, Hackintosh, GPU Flashing, and designing circuits using Proteus & MikroC.**
